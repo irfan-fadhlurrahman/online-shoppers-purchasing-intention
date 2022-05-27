@@ -22,7 +22,8 @@
 
 ### Problem Statement
 * **Latar Belakang Masalah**
-  Transaksi online berkembang sangat pesat. Berdasarkan hasil penelitian dari Nielsen, jumlah konsumen yang belanja online di Indonesia sebanyak 32 juta orang pada 2021. Kenaikan jumlah konsumen mencapai 88 persen dibandingkan pada tahun 2020 yang hanya 17 juta orang[1]. Hal ini terjadi karena pandemi COVID-19 yang merubah perilaku konsumen akibat harus beraktivitas di rumah sejak 2020. 
+  
+Transaksi online berkembang sangat pesat. Berdasarkan hasil penelitian dari Nielsen, jumlah konsumen yang belanja online di Indonesia sebanyak 32 juta orang pada 2021. Kenaikan jumlah konsumen mencapai 88 persen dibandingkan pada tahun 2020 yang hanya 17 juta orang[1]. Hal ini terjadi karena pandemi COVID-19 yang merubah perilaku konsumen akibat harus beraktivitas di rumah sejak 2020. 
 
 Di saat yang sama, terjadi juga perubahan cara mengiklan produk atau jasa dari suatu bisnis. Sekarang, perusahaan lebih fokus mengiklan produk atau jasanya melalui online advertising yang disesuaikan dengan interest dan aktivitas online seorang pengguna internet. Dengan online advertising, perusahaan mampu menjangkau target konsumen dengan lebih efektif dan mendapatkan keuntungan lebih banyak dengan biaya marketing yang tetap sama[2]. 
 
