@@ -1,3 +1,7 @@
+## Question
+1. Apakah EDA harus dengan full dataset atau hanya dengan train dataset?
+   Apa konsiderasinya?
+
 ## Dataset
 
 [Online Shoppers Purchasing Intention](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
