@@ -17,8 +17,6 @@ dan `traffic type` yang seharusnya ber tipe string atau object karena keempat ko
 ### Insight
 * Dengan lebih rendah exit_rates dan bounce_rates serta lebih tinggi page_values, maka visitor dengan perilaku seperti itu cenderung melakukan transaksi di e-commerce.
 
-* TBE
-
 ## Stage 2 - Data Preprocessing
 * Data duplikasi sebanyak 125 rows di-drop dari seluruh dataset.
 * Outliers pada feature numerik tidak dihapus tetapi jumlahnya dikurangi dengan feature transformation. Feature transformation yang tepat digunakan yaitu
