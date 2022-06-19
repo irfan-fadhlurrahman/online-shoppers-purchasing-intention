@@ -15,6 +15,7 @@ dan `traffic type` yang seharusnya ber tipe string atau object karena keempat ko
 * Berdasarkan spearman's correlation yang ditunjukkan oleh heatmap, ada korelasi antar feature numerik yang significant di atas 0.8 yaitu kolom jumlah page dan jumlah durasi page memiliki korelasi yang tinggi yaitu 0.88 - 0.95.
 
 ### Insight
+* Dengan lebih rendah exit_rates dan bounce_rates serta lebih tinggi page_values, maka visitor dengan perilaku seperti itu cenderung melakukan transaksi di e-commerce.
 
 * TBE
 
