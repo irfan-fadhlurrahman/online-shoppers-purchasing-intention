@@ -1,6 +1,6 @@
 ## Classification - Online Shoppers Purchasing Intention
 
-The purpose of this project is to analyze the purchasing behavior patterns of e-commerce visitors and to increase the conversion rate to purchase.
+The purpose of this project is to analyze the purchasing behavior patterns of e-commerce visitors and to increase the conversion rate to purchase. The results show that page values, the number of visited pages, has the greatest impact on a visitor's purchase decision. The conversion rate to purchase increases up to 60% by applying an actionable recommendation from insights that boost the number of visited pages.
 
 **Tools**: Python, JupyterLab, Git
 
@@ -8,7 +8,7 @@ The purpose of this project is to analyze the purchasing behavior patterns of e-
 
 **Dataset**: Online Shoppers Purchasing Intention, UCI Machine Learning, 2018 [[source]](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 
-**Summary**
+**Summary of the analysis**
 * This dataset has 12330 observations and 18 variables with 10 numerical variables, 7 categorical variables and one target variable.
 * All numerical variables have a right-skewed distribution and contain a lot of outliers. 
 * Revenue is the target variable that labels a visitor's purchase decision either purchase (class True) or not purchase (class False). The current condition is only 15% of total visitors who make a purchase. 
